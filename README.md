@@ -20,9 +20,7 @@
 
 **Target_match.ipynb**：肿瘤细胞靶点筛选相关代码
 
-
-
-
+​       
 
 Created on Wednesdat, May 8th, 2024 
 
@@ -36,8 +34,6 @@ Center for Life Sciences & Center for Quantitative Biology
 
 Peking University
 
-
-
-
+​       
 
 **Attention**：Paper&Dataset are NOT included due to potential copyright conflicts. All codes are only used for the examination of graduation project.
